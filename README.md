@@ -1,5 +1,7 @@
-**University of Liverpool Graduate**
+**University of Liverpool Graduate** MSc(Eng) *Risk and Uncertainty*, BSc *Mathematics*
 
 My focus is on statistic, data analysis, and machine learning
 
-[website](tubestubes.github.io]
+I mostly work in Python (and Jupyter) and R
+
+[My website](tubestubes.github.io)
